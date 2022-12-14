@@ -1,0 +1,745 @@
+[
+	{
+	"title": "Dragon Bloom",
+	"artist": "Jasim Chew",
+	"year": 2020,
+	"description": "Dragon Bloom Half-sleeve. Creator: Jasmin Chew. Date: 2020.",
+	"image": "https://images.unsplash.com/photo-1598371839696-5c5bb00bdc28?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1047&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Shoulder"
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Painful",
+		"Pain_level2": "Pain > Painful > Upper Shoulder"
+	},
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Mythical_Creatures",
+		"Pain_level2": "Subject > Mythical_Creatures > Dragons"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Rebellious"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > Half_sleeves(5-7 inches)"
+	}
+
+	
+}, 
+
+{
+
+	"title": "Old Sckool",
+	"artist": "Annie Spratt",
+	"year": 2016,
+	"description": "Old Sckool. Creator: Annie Spratt. Date: 2016.",
+	"image": "https://images.unsplash.com/photo-1454329030972-00583f5f051f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2061&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Forearm "
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Least Painful",
+		"Pain_level2": "Pain > Least Painful > Forearm"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Traditional"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Nature",
+		"Pain_level2": "Subject > Nature > Flowers"
+	},
+
+	"Color": {
+		"Color_level0": "Color",
+		"Color_level1": "Color > Colorful"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > 4-5 inches"
+	}
+},
+{
+
+	"title": "Line work of flowers",
+	"artist": "Eduardo Vaccari",
+	"year": 2019,
+	"description": "Line work of flowers. Creator: Eduardo Vaccari. Date: 2019.",
+	"image": "https://images.unsplash.com/photo-1562962230-16e4623d36e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Forearm "
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Least Painful",
+		"Pain_level2": "Pain > Least Painful > Forearm"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Illustration",
+		"Tattoo_Style_level2": "Tattoo Style > Illustration > Dot work"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Nature",
+		"Pain_level2": "Subject > Nature > Flowers"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Evergreen"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > 4-5 inches"
+	}
+
+},
+{
+
+	"title": "bold lines",
+	"artist": "Seyi Ariyo",
+	"year": 2020,
+	"description": "Singular Fish in Ocean. Creator: Milos Prelevic. Date: 2018.",
+	"image": "https://images.unsplash.com/photo-1604374376934-2df6fad6519b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms"
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Painful"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Blackwork",
+		"Tattoo_Style_level2": "Tattoo Style > Blackwork > Illustrative"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Abstract",
+		"Pain_level2": "Subject > Abstract > Lines"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Living in the moment"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > Full Sleeve(10-15 inces)"
+	}
+
+},
+{
+
+	"title": "Full Neck",
+	"artist": "Dimitri Pankin",
+	"year": 2021,
+	"description": "Full Neck. Creator: Dimitri Pankin. Date: 2021.",
+	"image": "https://images.unsplash.com/photo-1614769842925-8193ebda68b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1127&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Head",
+		"Body_Placement_level2": "Body_Placement > Head > Neck"
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Painful",
+		"Pain_level2": "Pain > Painful > Chest"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Blackwork",
+		"Tattoo_Style_level2": "Tattoo Style > Blackwork > Ornamental"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Nature",
+		"Pain_level2": "Subject > Nature > Flowers"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Pure Certainty"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > Sleeves(7-10 inches)"
+	}
+
+},
+{
+	"title": "Mandala",
+	"artist": "JJ Jordan",
+	"year": 2022,
+	"description": "Mandala. Creator: JJ Jordan. Date: 2022.",
+	"image": "https://images.unsplash.com/photo-1586243287039-23f4c8e2e7ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Torso",
+		"Body_Placement_level2": "Body_Placement > Torso > Back"
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Painful",
+		"Pain_level2": "Pain > Painful > Back"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Neo Traditional",
+		"Tattoo_Style_level2": "Tattoo Style > Neo Traditional > Decorative"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Pattern",
+		"Pain_level2": "Subject > Pattern > Geometric"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Evergreen"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > Sleeves(7-10 inches)"
+	}
+},
+
+{
+	"title": "Ed Hardy",
+	"artist": "Nathlie Stimple",
+	"year": 2020,
+	"description": "Ed Hardy. Creator: Nathlie Stimple. Date: 2020.",
+	"image": "https://images.unsplash.com/photo-1585303390830-874c989ce8f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Shoulder"
+
+	},
+
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Traditional",
+		"Tattoo_Style_level2": "Tattoo Style > Traditional > Ed Hardy"
+	},
+
+	"Color": {
+		"Color_level0": "Color",
+		"Color_level1": "Color > Colorful"
+	}
+},
+
+{
+	"title": "Custom",
+	"artist": "Aaron Visuals",
+	"year": 2020,
+	"description": "Custom. Creator: Aaron Visuals. Date: 2020.",
+	"image": "https://images.unsplash.com/photo-1589740986324-21787c70129f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1360&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Forearm "
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Least Painful",
+		"Pain_level2": "Pain > Least Painful > Forearm"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Traditional",
+		"Tattoo_Style_level2": "Tattoo Style > Traditional > Bert Grimm"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Love",
+		"Pain_level2": "Subject > Love > Hearts"
+	},
+
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > Sleeves(7-10 inches)"
+	}
+},
+
+{
+	"title": "Love",
+	"artist": "Agathe Yosefina",
+	"year": 2020,
+	"description": "Love. Creator: Agathe Yosefina. Date: 2020.",
+	"image": "https://images.unsplash.com/photo-1570168983832-8989dae1522e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1481&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Forearm "
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Least Painful",
+		"Pain_level2": "Pain > Least Painful > Forearm"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Minimal",
+		"Tattoo_Style_level2": "Tattoo Style > Minimal > Modern"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > language",
+		"Pain_level2": "Subject > Language > text"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Moment of Truth"
+	}
+},
+
+{
+	"title": "Roses",
+	"artist": "Jamakassi",
+	"year": 2018,
+	"description": "Roses. Creator: Jamakassi. Date: 2018.",
+	"image": "https://images.unsplash.com/photo-1541121514895-0f36e7d38d14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Hands "
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Most Painful",
+		"Pain_level2": "Pain > Most Painful > Hands"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Traditional",
+		"Tattoo_Style_level2": "Tattoo Style > Traditional > Ed Hardy"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Nature",
+		"Pain_level2": "Subject > Nature > Flowers"
+	},
+
+	"Color": {
+		"Color_level0": "Color",
+		"Color_level1":"Color > Red"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Rebellious"
+	}
+},
+
+{
+	"title": "tiny",
+	"artist": "Megan Bagshaw",
+	"year": 2020,
+	"description": "tiny. Creator: Megan Bagshaw. Date: 2020.",
+	"image": "https://images.unsplash.com/photo-1578390431359-2d1aa10989f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Hands "
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Most Painful",
+		"Pain_level2": "Pain > Most Painful > Hands"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Minimal",
+		"Tattoo_Style_level2": "Tattoo Style > Minimal > Modern"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Tiny Tattoo"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Ink indecisiveness"
+	}
+
+},
+
+{
+	"title": "Leaves",
+	"artist": "Sims Tat",
+	"year": 2019,
+	"description": "Leaves. Creator: Sims Tat. Date: 2019.",
+	"image": "https://images.unsplash.com/photo-1542727365-19732a80dcfd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Hands "
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Most Painful",
+		"Pain_level2": "Pain > Most Painful > Hands"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Minimal",
+		"Tattoo_Style_level2": "Tattoo Style > Minimal > Modern"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Nature",
+		"Subject_level2": "Subject > Nature > Plants"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Ink indecisiveness"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > up to 5 inches"
+	}
+
+	
+},
+
+{
+	"title": "Birds on hand",
+	"artist": "Aleks Marinkovic",
+	"year": 2020,
+	"description": "Birds on hand. Creator: Aleks Marinkovic. Date: 2010.",
+	"image": "https://images.unsplash.com/photo-1590246814883-55516d8c2afd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Forearm "
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > least Painful",
+		"Pain_level2": "Pain > Least Painful > Forearm"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Neo Traditional",
+		"Tattoo_Style_level2": "Tattoo Style > Neo Traditional > Animals"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Nature",
+		"Subject_level2": "Subject > Nature > Birds"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Reminiscing"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > Sleeves(7-10 inches)"
+	}
+},
+{
+	"title": "Floral",
+	"artist": "Jannis Lucas",
+	"year": 2019,
+	"description": "Floral. Creator: Jannis Lucas. Date: 2019.",
+	"image": "https://images.unsplash.com/photo-1584978417445-162c85c8d8c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Shoulder"
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Painful",
+		"Pain_level2": "Pain > Painful > Upper Shoulder"
+	},
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Illustration",
+		"Tattoo_Style_level2": "Tattoo Style > Illustration > Expressionism"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Nature",
+		"Subject_level2": "Subject > Nature > Flowers"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Rebellious"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > Half_sleeves(5-7 inches)"
+	}
+},
+
+{
+	"title": "leaf",
+	"artist": "Andrey K",
+	"year": 2022,
+	"description": "leaf. Creator: Andrey K. Date: 2022.",
+	"image": "https://images.unsplash.com/photo-1659462306513-478ac16140a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > legs",
+		"Body_Placement_level2": "Body_Placement > legs > ankle"
+
+	},
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Most Painful",
+		"Pain_level2": "Pain > Most Painful > Hands"
+	},
+
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Minimal",
+		"Tattoo_Style_level2": "Tattoo Style > Minimal > Modern"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Nature",
+		"Subject_level2": "Subject > Nature > Plants"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Cute"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > up to 1 inch"
+	}
+},
+
+{
+	"title": "Wings",
+	"artist": "Megan",
+	"year": 2020,
+	"description": "Wings. Creator: Megan. Date: 2020.",
+	"image": "https://images.unsplash.com/photo-1616486813695-0cefd7ad6485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Torso",
+		"Body_Placement_level2": "Body_Placement > Torso > Back"
+
+	},
+
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Neo Traditional",
+		"Tattoo_Style_level2": "Tattoo Style > Neo Traditional > Decorative"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Dark Arts",
+		"Subject_level2": "Subject > Dark Arts > Devils and Angels"
+	}
+
+},
+
+{
+	"title": "Coordinates",
+	"artist": "Cody Black",
+	"year": 2019,
+	"description": "Coordinates. Creator: Cody Black. Date: 2018.",
+	"image": "https://images.unsplash.com/photo-1508800716-b37c017b7a79?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2342&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Hands"
+
+	},
+
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Minimal",
+		"Tattoo_Style_level2": "Tattoo Style > Minimal > Modern"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > language",
+		"Subject_level2": "Subject > language > Numbers"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Cute"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > up to 5 inch"
+	}
+
+},
+
+{
+	"title": "Cross",
+	"artist": "Jeison Higuita",
+	"year": 2017,
+	"description": "Cross. Creator: Jesison Higuita. Date: 2017.",
+	"image": "https://images.unsplash.com/photo-1510759310914-d5ebfb4062d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2258&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Arms",
+		"Body_Placement_level2": "Body_Placement > Arms > Hands "
+
+	},
+
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Most Painful",
+		"Pain_level2": "Pain > Most Painful > Hands"
+	},
+
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Blackwork",
+		"Tattoo_Style_level2": "Tattoo Style > Blackwork > Ornamental"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Pure Certainty"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > up to 5 inch"
+	}
+
+},
+
+
+{
+	"title": "hearts",
+	"artist": "Malik",
+	"year": 2021,
+	"description": "Hearts. Creator: Malik. Date: 2021.",
+	"image": "https://images.unsplash.com/photo-1612863108477-2240d4c8c218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Torso",
+		"Body_Placement_level2": "Body_Placement > Torso > Chest"
+
+	},
+
+	"Pain": {
+		"Pain_level0": "Pain",
+		"Pain_level1": "Pain > Painful",
+		"Pain_level2": "Pain > Painful > Chest"
+	},
+
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Minimal",
+		"Tattoo_Style_level2": "Tattoo Style > Minimal > Modern"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Cute"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Tiny Tattoo",
+		"Subject_level2": "Subject > Love"
+	},
+
+	"Size": {
+		"Size_level0": "Size",
+		"Size_level1": "Size > up to 1 inch"
+	}
+
+},
+
+{
+	"title": "Simple",
+	"artist": "Sasha",
+	"year": 2018,
+	"description": "Simple. Creator: Sasha. Date: 2018.",
+	"image": "https://images.unsplash.com/photo-1543351812-5d64938fa266?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+	"Body_Placement": {
+		"Body_Placement_level0": "Body_Placement",
+		"Body_Placement_level1": "Body_Placement > Torso",
+		"Body_Placement_level2": "Body_Placement > Torso > Back"
+
+	},
+
+
+	"Tattoo Style": {
+		"Tattoo_Style_level0": "Tattoo Style",
+		"Tattoo_Style_level1": "Tattoo Style > Illustration",
+		"Tattoo_Style_level2": "Tattoo Style > Illustration > abstract"
+	},
+
+	"Moods": {
+		"Moods_level0": "Moods",
+		"Moods_level1": "Moods > Cute"
+	},
+
+	"Subject": {
+		"Subject_level0": "Subject",
+		"Subject_level1": "Subject > Pattern",
+		"Subject_level2": "Subject > Lines"
+	}
+
+}
+
+]
